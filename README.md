@@ -1,9 +1,7 @@
 ### Hi there 👋
-
+[![Pranay's github stats](https://github-readme-stats.vercel.app/api?username=pranay-jha)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **pranay-jha/pranay-jha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### [![Pranay's github stats](https://github-readme-stats.vercel.app/api?username=pranay-jha)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
